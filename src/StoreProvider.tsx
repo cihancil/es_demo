@@ -1,8 +1,11 @@
 import { Provider } from 'react-redux'
 import store from './stores'
+import { ReactNode } from 'react'
 
 export default function StoreProvider({
-  children
+  children,
+}: {
+  children: ReactNode,
 }) {
   return (
     <Provider store={store}>
