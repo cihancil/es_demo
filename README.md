@@ -1,4 +1,10 @@
 
+
+
+https://github.com/cihancil/es_demo/assets/9278709/1c2f6d2b-94a7-40f2-9842-3f6d467780a0
+
+
+
 # React Native Esimatic Demo Project
 
 This project aims to demonstrate React Native skills using Esimatic project as an example application. It demonstrates UI design and navigation features and Redux-toolkit state management.  
